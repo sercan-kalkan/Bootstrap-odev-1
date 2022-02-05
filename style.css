@@ -1,0 +1,14 @@
+body {
+    background-color:  #E9ECEF;
+}
+
+#urunliste {
+    text-align: center;
+}
+#urunliste>ul {
+    list-style-position: inside;
+}
+
+.morrenk {
+    color: purple;
+}
